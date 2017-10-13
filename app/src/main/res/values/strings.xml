@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ActivityPassValue</string>
+    <string name="btn1_name">采用Intent传值</string>
+    <string name="btn2_name">采用Bundle传值</string>
+    <string name="btn3_name">Application传值</string>
+    <string name="tx">这里是时结果也</string>
 </resources>
